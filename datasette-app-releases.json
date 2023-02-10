@@ -1,4 +1,4 @@
 {
-  "message": "API rate limit exceeded for 13.87.244.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+  "message": "API rate limit exceeded for 65.52.35.1. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
   "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
 }
