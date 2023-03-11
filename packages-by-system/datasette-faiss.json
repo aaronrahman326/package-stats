@@ -261,6 +261,16 @@
       "downloads": 3
     },
     {
+      "category": "Linux",
+      "date": "2023-03-09",
+      "downloads": 1
+    },
+    {
+      "category": "Linux",
+      "date": "2023-03-10",
+      "downloads": 4
+    },
+    {
       "category": "null",
       "date": "2023-01-11",
       "downloads": 19
@@ -461,6 +471,11 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2023-03-09",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2023-01-28",
       "downloads": 1
@@ -473,6 +488,11 @@
     {
       "category": "Windows",
       "date": "2023-02-19",
+      "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-03-09",
       "downloads": 1
     }
   ],

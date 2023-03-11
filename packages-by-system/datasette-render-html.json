@@ -41,14 +41,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-09-09",
-      "downloads": 2
-    },
-    {
-      "category": "Linux",
-      "date": "2022-09-10",
-      "downloads": 1
+      "category": "Darwin",
+      "date": "2023-03-09",
+      "downloads": 3
     },
     {
       "category": "Linux",
@@ -946,9 +941,14 @@
       "downloads": 2
     },
     {
-      "category": "null",
-      "date": "2022-09-10",
-      "downloads": 1
+      "category": "Linux",
+      "date": "2023-03-09",
+      "downloads": 13
+    },
+    {
+      "category": "Linux",
+      "date": "2023-03-10",
+      "downloads": 4
     },
     {
       "category": "null",
@@ -1166,6 +1166,16 @@
       "downloads": 2
     },
     {
+      "category": "null",
+      "date": "2023-03-09",
+      "downloads": 52
+    },
+    {
+      "category": "null",
+      "date": "2023-03-10",
+      "downloads": 1
+    },
+    {
       "category": "Windows",
       "date": "2022-10-21",
       "downloads": 1
@@ -1179,6 +1189,11 @@
       "category": "Windows",
       "date": "2023-02-08",
       "downloads": 1
+    },
+    {
+      "category": "Windows",
+      "date": "2023-03-10",
+      "downloads": 2
     }
   ],
   "package": "datasette-render-html",
