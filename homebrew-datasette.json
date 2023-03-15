@@ -99,7 +99,7 @@
   "disabled": false,
   "disable_date": null,
   "disable_reason": null,
-  "tap_git_head": "e2071268473bcddaf72f8e3f7aa4153a18d1ccfa",
+  "tap_git_head": "72cd9f44c208030812764aa36c4f0b2da7ddd3f6",
   "ruby_source_checksum": {
     "sha256": "7c8785e1eee301c9b2da292e1aa2fd0bfcb9000b7b74d6c33d2b5ffeb5942e14"
   },
