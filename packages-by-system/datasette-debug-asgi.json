@@ -21,14 +21,9 @@
       "downloads": 1
     },
     {
-      "category": "Linux",
-      "date": "2022-09-24",
+      "category": "Darwin",
+      "date": "2023-03-24",
       "downloads": 1
-    },
-    {
-      "category": "Linux",
-      "date": "2022-09-25",
-      "downloads": 5
     },
     {
       "category": "Linux",
@@ -916,9 +911,14 @@
       "downloads": 5
     },
     {
-      "category": "null",
-      "date": "2022-09-25",
-      "downloads": 3
+      "category": "Linux",
+      "date": "2023-03-24",
+      "downloads": 7
+    },
+    {
+      "category": "Linux",
+      "date": "2023-03-25",
+      "downloads": 2
     },
     {
       "category": "null",
