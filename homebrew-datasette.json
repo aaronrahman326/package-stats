@@ -101,7 +101,7 @@
   "disable_date": null,
   "disable_reason": null,
   "service": null,
-  "tap_git_head": "001459d1dd66ca085695cd3d2da6b9d2635ffd3c",
+  "tap_git_head": "8faa4f2f9a8d75a51fc7cefa33d285aebebc6cff",
   "ruby_source_path": "Formula/datasette.rb",
   "ruby_source_checksum": {
     "sha256": "da37fcd534934108f39833dc7f407ef93c443cd70b3f70b9fd777a319a778444"
